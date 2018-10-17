@@ -1,0 +1,13 @@
+{
+  "name": "2melrose-bare",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0",
+    "bcrypt": "^3.0.1",
+    "meteor-node-stubs": "^0.4.1",
+    "simpl-schema": "^1.5.3"
+  }
+}
