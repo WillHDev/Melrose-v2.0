@@ -24,7 +24,6 @@ spiderable
 fastclick
 raix:handlebar-helpers
 aldeed:collection2
-aldeed:autoform
 accounts-ui
 accounts-password
 matb33:bootstrap-glyphicons
@@ -32,3 +31,6 @@ msavin:jetsetter
 zimme:active-route
 blaze-html-templates
 cultofcoders:persistent-session
+service-configuration
+aldeed:autoform
+aldeed:simple-schema
