@@ -5,6 +5,7 @@ Template.NewRecipe.events({
       // Prevent default browser form submit
       event.preventDefault();
    
+      
       // Get value from form element
       const target = event.target;
       const name = target.name.value;
